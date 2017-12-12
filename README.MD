@@ -1,3 +1,1 @@
-## Tutorial on How to Build a Shopping Cart with Laravel
-
-This Github repo simply holds the code of my YouTube series which shows how to create a shopping cart using Laravel.
+This is my frist project on git hub the project is about onine shopping cart
