@@ -1,1 +1,1 @@
-This is my frist project on git hub the project is about onine shopping cart
+I builded a online shopping cart where people can purchase product form online shop by using online payment for making life easier. This project also offer better user friendly UI and user management. Customer can check out the product before confirming the payment
